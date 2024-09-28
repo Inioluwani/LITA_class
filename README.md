@@ -3,6 +3,7 @@ This is where i document my first project while learning Data Analysis with Incu
 ## Project title: creation of pivot tables from table.
 
 ### Project overview
+---
 
 ### Data Sources
 The source of data is the tutor. The tutor send the data to the group to be worked on for the pivot table which is the data summarization class.
@@ -18,3 +19,10 @@ The source of data is the tutor. The tutor send the data to the group to be work
  -GitHub for portfolio building
 
  ### Data Cleaning and Preparations
+
+ ### Data Analysis
+ This is where I include basic lines of code or queries or even functions used during analysis;
+
+ ```SQL
+Select * from Employee
+where Staffid = 'ab212'
