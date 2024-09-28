@@ -2,6 +2,14 @@
 This is where i document my first project while learning Data Analysis with Incubator Hub
 ## Project title: creation of pivot tables from table.
 
+[project overview](#project-overview)
+
+[data sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+Data Cleaning and preparations
+
 ### Project overview
 ---
 
