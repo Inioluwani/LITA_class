@@ -8,7 +8,7 @@ This is where i document my powerbi class project while learning Data Analysis w
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Preparations](#data-cleaning-and-preparation)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
 [Data Analysis](#data-analysis)
 
