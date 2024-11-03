@@ -1,5 +1,5 @@
 # LITA_class
-This is where i document my powerbi class project while learning Data Analysis with Incubator Hub
+This is where I document my powerbi class project while learning Data Analysis with Incubator Hub
 ## Project title: Data Visualization using PowerBi
 
 [project overview](#project-overview)
@@ -55,3 +55,4 @@ The age group with the highest attrition is 25-34 with a total of 112 employees 
 The majority(73) of people that left are those that said they were satisfied with their jobs followed by those that said they were dissatisfied with their jobs. The job roles with the highest attition is the laboratory technician with 62 employees that left and the job roles with the lowest attrition is research director with a count of 2.
 
 ### Recommendation from Analysis
+The organization should give more opportunities for employment for women as they are more stable. The organization should reduce the number of employee in age group 25-34 as they are not stable employees. A review should be done for the laboratory technicians and also the R&D department to understand why they leave the organization as most of them are satisfied with the job. Since, the employees satisfaction of the job does not stop them from leaving, employers should believe that the job satisfaction is not the reason they leave, there are other reasons the employers should inquire into.
