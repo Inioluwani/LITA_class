@@ -46,5 +46,5 @@ The data was cleanes using Transform data. The first column was promoted as head
 ![Screenshot (25)](https://github.com/user-attachments/assets/e6381132-6652-4d19-97fc-34e5afe85124)
 
 ### Observation from Analysis
-
+The attrition rate in the organization is 16%. The education field with the highest attrition count is life sciences with 89 employees, the education field with the least attrition is Human resources with a count of 7 employees. The department with the highest attrition count is the R&D department with a total of 133 employees and the department with the least attrition count is the HR department with attrition count of 12. It is noticed that more males (150) left the organization than females(87). 
 
